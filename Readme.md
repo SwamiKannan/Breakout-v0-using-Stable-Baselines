@@ -2,7 +2,7 @@
 
 ## Libraries:
 ### Stable Baselines:
-https://stable-baselines3.readthedocs.io/en/master/index.html)
+https://stable-baselines3.readthedocs.io/en/master/index.html
 
 ### Stable Baselines contrib
 https://sb3-contrib.readthedocs.io/en/master/index.html
